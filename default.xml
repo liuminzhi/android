@@ -262,7 +262,7 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
+  <!-- <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" /> -->
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
@@ -531,6 +531,8 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" remote="aosp"  />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" remote="aosp"   />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" remote="aosp"   />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" remote="aosp"   />
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" remote="aosp" />
   <project path="packages/providers/CallLogProvider" name="platform/packages/providers/CallLogProvider" groups="pdk-fs" remote="aosp" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
