@@ -503,7 +503,7 @@
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" remote="aosp" />
-  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" groups="pdk-fs" remote="aosp" />
+  <project path="packages/apps/Exchange"  name="platform/packages/apps/Exchange" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" remote="aosp" />
