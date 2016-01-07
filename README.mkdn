@@ -1,5 +1,5 @@
 CyanogenMod
-                                 ###I want keep cyanogenmod more pure###
+                                 ### keep cyanogenmod more pure###
 ===========
 
 Submitting Patches
